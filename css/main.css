@@ -280,3 +280,224 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+
+.header_area{
+    min-height: 600px;
+    background-image: url(../img/sliderbackground.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.container{}
+.row{}
+.col-lg-12{}
+.header_text{
+    margin-top: 160px;
+    font-size: 24px;
+    color: #ffffff;
+    width: 453px;
+    margin-left: 100px;
+}
+.our_icons{}
+.our_icons a{
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 50px;
+    background: #333;
+    margin-right: 7px;
+}
+.our_icons a:hover{
+    background:#2ECC71;
+}
+.our_icons a i {
+    height: 25px;
+    width: 26px;
+}
+.our_icons a i.apple_icon {
+    padding-left: 3px;
+}
+.our_icons a i.android_icon {
+    padding-left: 3px;
+}
+.our_icons a i.windows_icon {
+    padding-left: 1px;
+}
+.fa{}
+.fa-apple{}
+.fa-android{}
+.fa-windows{}
+.advertise_area{}
+.col-lg-4{}
+.single_advertise{
+    margin-bottom: 60px;
+    margin-top: 60px;
+    text-align: center;
+}
+.single_advertise i{
+    color: #FFFFFF;
+    background: #2ECC71;
+    border-radius: 50px;
+    font-size: 44px;
+    padding: 20px;
+    width: 85px;
+}
+.single_advertise h2{
+    font-size: 22px;
+}
+.single_advertise p{
+    font-size: 16px;
+}
+.fa-cog{}
+.fa-star{}
+.fa-globe{}
+.email_subscription_area{
+    background: #E3E3E3;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.col-lg-6{}
+.newsletter_signup{}
+.newsletter_signup h2{
+    font-size: 22px;
+    color: #222222;
+}
+.newsletter_signup p{
+    font-size: 16px;
+}
+.newsletter_signup_from{}
+.newsletter_signup_from input[type=text]{
+    float: left;
+    border: 1px solid #C8C8C8;
+    padding: 10px;
+    border-radius: 10px 0 0 10px;
+}
+.newsletter_signup_from input[type=submit]{
+    float: left;
+    border: none;
+    background: #2ECC71;
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 13px;
+    border-radius: 0 10px 10px 0;
+    padding-right: 15px;
+    padding-left: 15px;
+        
+}
+.newsletter_video{}
+.author_testimonial{
+    
+}
+.testimonial_area{
+    
+}
+.testimonial_area .tab-pane{
+    
+}
+
+.testimonial_area .tab-pane p{
+    margin-top: 20px;
+    font-size: 18px;
+    font-style: italic;
+    color: #848484;
+    text-align: center;
+    
+}
+
+.testimonial_area .tab-pane h3{
+    font-weight: bold;
+    font-size: 18px;
+    color: #2e2e2e;
+    text-align: center;
+}
+.author_list{
+    text-align: center;
+}
+.author_list ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    
+}
+
+.author_list li{
+    display: inline;
+    
+}
+
+.author_list li a{
+    display: inline-block;
+    
+}
+.social_media{}
+.social_media h2{
+    text-align: center;
+    font-size: 24px;
+    color: #000000;
+}
+.social_media p{
+    text-align: center;
+    font-size: 16px;
+    color: #848484;
+    
+}
+.social_media ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;padding-top: 10px;
+    padding-bottom: 10px;
+}
+.social_media ul li{
+    display: inline;
+    text-align: center;
+    padding: 10px;
+    
+}
+.social_media ul li a{
+    display: inline-block;
+    background:#D4D4D4;
+    border-radius: 50px;
+    color: #ffffff;
+    padding: 10px;
+}
+.social_media ul li a i{
+    width: 25px;
+    height: 25px;
+    font-size: 25px;
+}
+.social_media ul li a:hover{
+  background: #62D995;
+}
+
+.author_list li a:hover{
+    color: #62AC66;
+    
+}
+.footer_area{
+    background: #E3E3E3;
+}
+.footer_menu{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer_menu ul{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.footer_menu ul li{
+    display: inline;
+}
+.footer_menu ul li a{
+    color: #B7B7B7;
+    padding: 0 15px;
+}
+.footer_menu ul li a:hover{}
+
+.hi{
+    min-height: 200px;
+}
